@@ -1,29 +1,32 @@
-
 # 💻 Estudos de Programação
 
-Repositório criado para compartilhar minha jornada de aprendizado em programação e desenvolvimento de software.
+Repositório dedicado aos meus estudos e à prática de programação.
 
-## 👩‍💻 Sobre mim
+## 👩‍💻 Sobre
 
 Sou estudante de Gestão da Tecnologia da Informação e Técnica em Informática pelo IFTO.
 
-Atualmente, estou focada em aprender desenvolvimento web e aprimorar meus conhecimentos em programação.
+Estou desenvolvendo minhas habilidades em programação, com foco em desenvolvimento web.
 
-## 📚 Tecnologias em estudo
+## 🛠️ Tecnologias e conteúdos
 
 - HTML
 - CSS
 - JavaScript
 - Lógica de programação
-- SQL
+- SQL (em estudo)
+
+## 📚 Organização
+
+- `estudos/` — exercícios e práticas realizados durante meus estudos.
 
 ## 🎯 Objetivos
 
-- Praticar programação diariamente
-- Desenvolver projetos pessoais
-- Aprimorar minhas habilidades em desenvolvimento web
-- Construir meu portfólio para oportunidades de estágio
+- Aprimorar minha lógica de programação.
+- Praticar JavaScript.
+- Desenvolver aplicações web.
+- Construir projetos para meu portfólio.
 
 ---
 
-🚀 Em constante aprendizado!
+📌 Repositório atualizado conforme minha evolução nos estudos.
